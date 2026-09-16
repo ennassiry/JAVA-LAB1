@@ -13,7 +13,6 @@ Un programme Java en ligne de commande (CLI) interactif permettant de réaliser 
 
 - **Boucle interactive** (`do-while`) et structures conditionnelles (`if / else if`).
 - **Saisie utilisateur** via la classe `java.util.Scanner`.
-- **Méthodes statiques** pour l'encapsulation de la logique de calcul.
 - **Varargs (`int...`) et Tableaux** pour la gestion dynamique des paramètres.
 
 ##  Exécution
