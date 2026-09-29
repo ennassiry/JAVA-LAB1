@@ -1,4 +1,4 @@
-# 💻 TP Java — Algorithmes sur les tableaux et matrices
+# 💻 TP Java — Bases de Java
 
 > 📚 **Langage :** Java  
 > 🛠️ **IDE :** Eclipse  
